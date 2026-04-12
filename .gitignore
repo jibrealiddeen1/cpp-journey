@@ -5,11 +5,27 @@
 *.dSYM
 
 # System files
-.DS_Store
 Thumbs.db
+.DS_Store
+main.dSYM
+.vscode
 
 # Sensitive files
 passwords.txt
 secrets.txt
 *.env
 *.key
+
+
+# Compiled files - no extension
+main
+for
+midterm
+practice_function
+main1_1
+
+# Temp files
+tempCodeRunnerFile.cpp
+
+# VS Code settings
+.vscode
