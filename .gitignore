@@ -26,9 +26,14 @@ main1_1
 arrays
 ptr
 midterm_2
+class
 
 # Temp files
 tempCodeRunnerFile.cpp
 
 # VS Code settings
 .vscode
+
+
+# Ignore ALL files without extension (compiled binaries)
+Part 1/Part 2/Part 3/class
