@@ -37,3 +37,7 @@ tempCodeRunnerFile.cpp
 
 # Ignore ALL files without extension (compiled binaries)
 Part 1/Part 2/Part 3/class
+
+
+# Ignore all compiled binaries
+output/
